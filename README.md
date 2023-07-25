@@ -1,5 +1,5 @@
 # T20 World Cup Cricket Data Analytics Project
-<img width="573" alt="image" src="https://github.com/x-factor123/Data-Visualization-Project-Using-Power-BI/assets/140404386/a0a8a886-54ee-4703-820b-f4d92ccfac5c">
+https://app.powerbi.com/groups/me/reports/4fab0136-0a63-468a-84b0-8b28e588b365/ReportSection3a8cb23b814911c94608?experience=power-bi
 
 ### Introduction
 This is an end-to-end sports data analytics project focused on the T20 World Cup cricket data (2022 edition). The primary objective of this project is to gather insights and assemble the best 11 players team from Earth who can play against aliens. We have used web scraping, Python, pandas for data manipulation, and Power BI to create interactive dashboards for data visualization.
